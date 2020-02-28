@@ -1,3 +1,5 @@
+//El método call() llama a una función con un valor this asignado y argumentos provistos de forma individual
+
 //this es una referencia a memoria
 //.call - lista de argumentes
 //.apply - vector
